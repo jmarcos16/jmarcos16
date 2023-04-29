@@ -1,7 +1,7 @@
 ### Olá, meu nome é José Marcos 👋
 
 - 🔭 Estou trabalhando com PHP 
-- 🌱 Estou estudando Node.js 
+- 🌱 Estou estudando Laviwire
 - 📫 Entre em contato comigo: contato.marcosrf@gmail.com
 - ⚡ Mineiro morando em Joinville-SC
 ##
